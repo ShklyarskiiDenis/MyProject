@@ -1,0 +1,39 @@
+C:\Users\Дмитрий\Dropbox\Projects\VS\WFA_1\WFA_1\bin\Debug\WFA_1.exe.config
+C:\Users\Дмитрий\Dropbox\Projects\VS\WFA_1\WFA_1\obj\Debug\WFA_1.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Dropbox\Projects\VS\WFA_1\WFA_1\obj\Debug\WFA_1.Form1.resources
+C:\Users\Дмитрий\Dropbox\Projects\VS\WFA_1\WFA_1\obj\Debug\WFA_1.Properties.Resources.resources
+C:\Users\Дмитрий\Dropbox\Projects\VS\WFA_1\WFA_1\obj\Debug\WFA_1.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Dropbox\Projects\VS\WFA_1\WFA_1\bin\Debug\WFA_1.exe
+C:\Users\Дмитрий\Dropbox\Projects\VS\WFA_1\WFA_1\bin\Debug\WFA_1.pdb
+C:\Users\Дмитрий\Dropbox\Projects\VS\WFA_1\WFA_1\obj\Debug\WFA_1.exe
+C:\Users\Дмитрий\Dropbox\Projects\VS\WFA_1\WFA_1\obj\Debug\WFA_1.pdb
+D:\Users\денис\Desktop\Лаба 3 по КГ\WFA_1\WFA_1\bin\Debug\WFA_1.exe.config
+D:\Users\денис\Desktop\Лаба 3 по КГ\WFA_1\WFA_1\obj\Debug\WFA_1.exe
+D:\Users\денис\Desktop\Лаба 3 по КГ\WFA_1\WFA_1\obj\Debug\WFA_1.pdb
+D:\Users\денис\Desktop\Лаба 3 по КГ\WFA_1\WFA_1\bin\Debug\WFA_1.exe
+D:\Users\денис\Desktop\Лаба 3 по КГ\WFA_1\WFA_1\bin\Debug\WFA_1.pdb
+D:\Users\денис\Desktop\Лаба 3 по КГ\WFA_1\WFA_1\obj\Debug\WFA_1.csprojResolveAssemblyReference.cache
+D:\Users\денис\Desktop\Лаба 3 по КГ\WFA_1\WFA_1\obj\Debug\WFA_1.Form1.resources
+D:\Users\денис\Desktop\Лаба 3 по КГ\WFA_1\WFA_1\obj\Debug\WFA_1.Properties.Resources.resources
+D:\Users\денис\Desktop\Лаба 3 по КГ\WFA_1\WFA_1\obj\Debug\WFA_1.csproj.GenerateResource.Cache
+G:\Лаба 3 по КГ\WFA_1\WFA_1\bin\Debug\WFA_1.exe.config
+G:\Лаба 3 по КГ\WFA_1\WFA_1\obj\Debug\WFA_1.exe
+G:\Лаба 3 по КГ\WFA_1\WFA_1\obj\Debug\WFA_1.pdb
+F:\Лаба 3 по КГ\WFA_1\WFA_1\bin\Debug\WFA_1.exe.config
+F:\Лаба 3 по КГ\WFA_1\WFA_1\obj\Debug\WFA_1.exe
+F:\Лаба 3 по КГ\WFA_1\WFA_1\obj\Debug\WFA_1.pdb
+F:\Лаба 3 по КГ\WFA_1\WFA_1\bin\Debug\WFA_1.exe
+F:\Лаба 3 по КГ\WFA_1\WFA_1\bin\Debug\WFA_1.pdb
+F:\Лаба 3 по КГ\WFA_1\WFA_1\obj\Debug\WFA_1.csprojResolveAssemblyReference.cache
+F:\Лаба 3 по КГ\WFA_1\WFA_1\obj\Debug\WFA_1.Form1.resources
+F:\Лаба 3 по КГ\WFA_1\WFA_1\obj\Debug\WFA_1.Properties.Resources.resources
+F:\Лаба 3 по КГ\WFA_1\WFA_1\obj\Debug\WFA_1.csproj.GenerateResource.Cache
+C:\Users\денис\Desktop\Лаба 3 по КГ\WFA_1\WFA_1\bin\Debug\WFA_1.exe.config
+C:\Users\денис\Desktop\Лаба 3 по КГ\WFA_1\WFA_1\obj\Debug\WFA_1.exe
+C:\Users\денис\Desktop\Лаба 3 по КГ\WFA_1\WFA_1\obj\Debug\WFA_1.pdb
+C:\Users\денис\Desktop\Лаба 3 по КГ\WFA_1\WFA_1\bin\Debug\WFA_1.exe
+C:\Users\денис\Desktop\Лаба 3 по КГ\WFA_1\WFA_1\bin\Debug\WFA_1.pdb
+C:\Users\денис\Desktop\Лаба 3 по КГ\WFA_1\WFA_1\obj\Debug\WFA_1.csprojResolveAssemblyReference.cache
+C:\Users\денис\Desktop\Лаба 3 по КГ\WFA_1\WFA_1\obj\Debug\WFA_1.Form1.resources
+C:\Users\денис\Desktop\Лаба 3 по КГ\WFA_1\WFA_1\obj\Debug\WFA_1.Properties.Resources.resources
+C:\Users\денис\Desktop\Лаба 3 по КГ\WFA_1\WFA_1\obj\Debug\WFA_1.csproj.GenerateResource.Cache
